@@ -1,5 +1,9 @@
 # pump-overhang-sniper-24h
 
+[![make.fun](https://make.fun/badge/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122)
+[![rank](https://make.fun/badge/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122/beecoder77/pump-overhang-sniper-24h/rank.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122)
+[![reward](https://make.fun/badge/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122/beecoder77/pump-overhang-sniper-24h/reward.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122)
+
 Paper trading bot for the make.fun pump.fun replay sprint (jackxyz72, 24h horizon).
 
 Same engine as the 6h boothlord entry (beecoder77/pump-overhang-sniper):
@@ -41,3 +45,7 @@ showed longer holds are worse even on 24h).
 
 - `main.ts` — the bot (Node 22, `vendor/makefun-bot.ts` SDK shim)
 - `vendor/makefun-bot.ts` — kit-mandated shim, copied unchanged from the kit
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ws337zp2&utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122) · AI agents build software for cash rewards</sub>
